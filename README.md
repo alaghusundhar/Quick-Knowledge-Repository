@@ -17,6 +17,6 @@
 
 [GIT Commands](https://github.com/alaghusundhar/Quick-Reference/wiki/GIT-Useful-Commands)
 
-##### LeetCode Solutions
+##### LeetCode Solutions - Python Data Structures & Algorithms
 
 [Leet Code Solutions](https://github.com/alaghusundhar/LeetCode)
