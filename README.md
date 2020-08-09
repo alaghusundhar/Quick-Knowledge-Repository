@@ -1,29 +1,21 @@
 # Quick-Knowledge-Repository
 
 
-##### Python Installation & Set up
-
-[Python Installation & Setup](https://github.com/alaghusundhar/python-utils/wiki/Python-Installation-&-Setup)
-
 ##### Python Useful commands
 
-[Python Useful Commands](https://github.com/alaghusundhar/python-utils/wiki/Python-Useful-Commands)
+[Python Useful Commands](https://github.com/alaghusundhar/Quick-Reference/wiki/Python-Useful-Information)
 
 ##### Kubernetes Cheet Sheet
 
-[Kubernetes Cheat Sheet](https://github.com/alaghusundhar/kubernetes/wiki/Kubernetes--Cheat-Sheet)
-
-##### Types of Services in Kubernetes
-
-[Services in Kubernetes](https://github.com/alaghusundhar/kubernetes/wiki/Types-of-Services-in-Kubernetes)
+[Kubernetes Cheat Sheet](https://github.com/alaghusundhar/Quick-Reference/wiki/Kubernetes---Cheat-Sheet)
 
 ##### Top Unix Commands
 
-[Unix Commands](https://github.com/alaghusundhar/Unix/wiki/Unix-Commands)
+[Unix Commands](https://github.com/alaghusundhar/Quick-Reference/wiki/Unix-Useful-Commands)
 
 ##### Useful GIT Commands
 
-[GIT Commands](https://github.com/alaghusundhar/GIT/wiki/GIT-commands)
+[GIT Commands](https://github.com/alaghusundhar/Quick-Reference/wiki/GIT-Useful-Commands)
 
 ##### LeetCode Solutions
 
